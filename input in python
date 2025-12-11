@@ -1,0 +1,17 @@
+# you need to perform three separate tasks based on given input.
+#1. string input and print:take a text input as a string and print it as it is
+#2. integer input and add:take an integer input n,add 10 to it, print the result
+#3. float input and multiply:take a floating point number as input,multiply it by 10,print the result.
+#User function Template for python3
+########### Write your code below ###############
+
+# Take string input and print the string input
+s = input()
+print(s)
+# Take integer input and add 10 to the integer input and print
+n = int(input())
+print(n + 10)
+# Take floating-point input and multiply the float input by 10 and print
+f = float(input())
+print(f * 10)
+########### Write your code above ###############
